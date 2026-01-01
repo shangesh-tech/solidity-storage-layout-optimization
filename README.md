@@ -1,9 +1,5 @@
 # solidity-storage-layout-optimization
 
-Alright, let me break down **storage packing** in a way you'll actually remember and use in every project. This is fundamental EVM knowledge that separates amateur devs from professionals.
-
-***
-
 ## The Core Concept: 32-Byte Storage Slots
 
 **The EVM stores data in 32-byte (256-bit) slots**. Think of storage like a giant warehouse with shelves - each shelf holds exactly 32 bytes.
