@@ -242,8 +242,3 @@ For **every struct** you write:
 5. ✅ Run `forge inspect storage-layout` to verify
 6. ✅ Test gas costs before/after to measure savings
 
-***
-[7](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html?highlight=layout+in+storage)
-[8](https://psolidity.readthedocs.io/en/latest/miscellaneous.html)
-[9](https://ethereum-magicians.org/t/eip-7201-namespaced-storage-layout/14796)
-[10](https://docs.base.org/learn/storage/how-storage-works)
